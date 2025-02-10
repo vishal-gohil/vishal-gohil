@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/vishal-gohil/vishal-gohil/refs/heads/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vishal Gohil</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
